@@ -4,13 +4,14 @@ Unzip and move to desktop
 Open command prompt. Type CD  place the folders URL link,  click enter. 
 
 Enter the following commands
+
     Composer install
     npm install
     Npm run build 
     Open xampp and start mySQL 
 
     Php artisan migrate ( yes )
-    
+   
     Php artisan db:seed
     Php artisan serve
 
