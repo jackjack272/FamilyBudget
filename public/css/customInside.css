@@ -1,0 +1,43 @@
+.show{
+    padding-top: 2%;
+    border-style: dotted;
+}
+.inline_blockMe{
+    display:inline-block;
+    width: 25%;
+}
+.blockMe{
+    display:block;
+}
+.leftMe{    
+    float:left;
+}
+.rightMe{
+    float:right;
+}
+nav{
+    width: 20%;
+    display:block;
+    float: left;
+    margin-left: 5%;    
+}
+.form_section{
+    display: block;
+    float:right;
+    width:60%;
+    margin-right: 5%;
+}
+.center_me{
+    margin-left: 20%;
+    margin-left: 20%;
+}
+.width65{
+    width: 60%;
+}
+.width35{
+    width:35%;
+}
+.moveCenter{
+    margin-left: 40%;
+
+}
